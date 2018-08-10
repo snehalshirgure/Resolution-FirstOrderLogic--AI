@@ -1,0 +1,1 @@
+# Resolution-FirstOrderLogic--AI
